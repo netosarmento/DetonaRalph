@@ -37,6 +37,12 @@
     background-color: #00fff2;
 }
 
+.enemy-2 {
+    background-image: url("../img/ralph2.png");
+    background-size: cover;
+    background-color: #00fff2; 
+}
+
 .menu-lives {
     display: flex;
     align-items: center;
