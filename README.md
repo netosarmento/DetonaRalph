@@ -3,8 +3,6 @@
     <img align="center" width="40px" src="https://raw.githubusercontent.com/netosarmento/DetonaRalph/main/src/img/favicon.jpg">
 </h1>
 
-# Detona Ralph
-
 - Jogo desafio do Detona Ralph, proposta de desafio da DIO.
 
 ## Feito em:
